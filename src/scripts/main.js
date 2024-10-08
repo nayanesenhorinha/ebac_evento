@@ -1,7 +1,7 @@
 AOS.init();
 
 const contador = document.getElementById('contador');
-const dataDoEvento = new Date('oct 10, 2023 19:00:00');
+const dataDoEvento = new Date('mar 28, 2025 00:00:00');
 const timeStampDoEvento = dataDoEvento.getTime();
 
 const contaAsHoras = setInterval(() => {
